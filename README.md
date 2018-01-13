@@ -1,8 +1,8 @@
 # OpenVPN for Docker
 
-[![Build Status](https://travis-ci.org/kleberbaum/docker-openvpn.svg)](https://travis-ci.org/kylemanna/docker-openvpn)
-[![Docker Stars](https://img.shields.io/docker/stars/kleberbaum/openvpn.svg)](https://hub.docker.com/r/kylemanna/openvpn/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/kleberbaum/openvpn.svg)](https://hub.docker.com/r/kylemanna/openvpn/)
+[![Build Status](https://travis-ci.org/kleberbaum/docker-openvpn.svg)](https://travis-ci.org/kleberbaum/docker-openvpn)
+[![Docker Stars](https://img.shields.io/docker/stars/kleberbaum/openvpn.svg)](https://hub.docker.com/r/kleberbaum/openvpn/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/kleberbaum/openvpn.svg)](https://hub.docker.com/r/kleberbaum/openvpn/)
 [![ImageLayers](https://images.microbadger.com/badges/image/kleberbaum/openvpn.svg)](https://microbadger.com/#/images/kleberbaum/openvpn)
 
 
