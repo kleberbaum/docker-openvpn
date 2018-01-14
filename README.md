@@ -5,8 +5,7 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/kleberbaum/openvpn.svg)](https://hub.docker.com/r/kleberbaum/openvpn/)
 [![ImageLayers](https://images.microbadger.com/badges/image/kleberbaum/openvpn.svg)](https://microbadger.com/#/images/kleberbaum/openvpn)
 
-
-OpenVPN server in a Docker container complete with an EasyRSA PKI CA.
+Size optimised docker image based on [alpine](https://alpinelinux.org/).
 
 Extensively tested on [netcup 2.99€/a VPS](https://www.netcup.de/bestellen/produkt.php?produkt=1710).
 
